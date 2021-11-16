@@ -1,5 +1,6 @@
 # AIDE
 AIDE: Annotation-efficient deep learning for automatic medical image segmentation
+original paper:https://www.nature.com/articles/s41467-021-26216-9
 
 ## Introduction
 This is the official code of AIDE, a deep learning framework for automatic medical image segmentation with imperfect datasets, including those having limited annotations, lacking target domain annotations, and containing noisy annotations. Automatic segmentation of medical images plays an essential role in both scientific research and medical care. Deep learning approaches have presented encouraging performances, but existing high-performance methods typically rely on very large training datasets with high-quality manual annotations, which are normally difficult or even impossible to obtain in many clinical applications. We introduce AIDE, a novel annotation-efficient deep learning framework to handle imperfect training datasets.
